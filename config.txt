@@ -1,4 +1,4 @@
-﻿token=NTE2MzEzNjM4NjAwOTY2MTY1.Dtx2VA.l6STqjyTYVe5ndqTDLQBRiS_PmE
+token=NTE2MzEzNjM4NjAwOTY2MTY1.DtzvEQ.uOH43l-Q4x2qmTIUSaOoLEceeUA
 owner=465811762386567168
 prefix= C
 game= Cplay
